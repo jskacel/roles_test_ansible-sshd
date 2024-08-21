@@ -1,0 +1,6 @@
+---
+roles:
+  - name: ansible-sshd
+    src: https://github.com/willshersystems/ansible-sshd
+    scm: git
+    version: main
